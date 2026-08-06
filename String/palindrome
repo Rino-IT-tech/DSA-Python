@@ -1,0 +1,8 @@
+text = "madam"
+
+reverse = text[::-1]
+
+if text == reverse:
+     print("palindrom")
+else:
+     print("not palindrome")
